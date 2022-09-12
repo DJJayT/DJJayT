@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DJJayT
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning PHP, JS, HTML and CSS
+- 🌱 I’m currently learning PHP, JS, HTML, CSS and C#
 - 💞️ I’m looking to collaborate on some exciting projects
 - 📫 How to reach me:
 - Discord: DJJayT#0001
